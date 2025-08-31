@@ -67,18 +67,11 @@ Presentation Slides (key insights & visuals)
 Summary of Findings
 *There are products that are not being sold as much as others *Some products are underperforming throughout the different intervals of the day while others perform throughout *Other products sales occur at different intervals of the day
 
-Recommendations:
 
-Run campaigns during low-traffic times
-Stock more of top-selling items
-Promote low-performing products
-Next Steps:
 
-Automate daily sales reports
-Enable performance tracking across locations
-Implement loyalty programs during peak hours
-Submission Requirements
-Miro Plan/Diagram (Data Architecture)
-Processed Dataset in Excel or Google Sheets (with Pivot Tables & Charts)
-PowerPoint Presentation
-SQL Code File (Text Format)
+Recommendations 💡
+Based on these insights, I propose the following recommendations to improve sales performance and operational efficiency:
+1.	Optimize the Product Mix: Given the dominance of Coffee and Tea, consider stocking more of the best-selling products within these categories, such as Earl Grey Rg and Dark chocolate Lg, to meet high demand.
+2.	Strategic Marketing: Implement marketing campaigns during slow time slots, such as the midday period (12:00 PM to 3:00 PM), to attract customers and boost sales during these lulls. Promotions, happy hour specials, or loyalty program incentives could be effective.
+3.	Promote Underperforming Products: Identify products with low sales volumes (e.g., Branded merchandise and Packaged Chocolate) and develop targeted promotions or new product placements to increase their visibility and appeal.
+
